@@ -39,7 +39,7 @@ Cette documentation concerne l'utilisation de Papillon dans un environnement Exp
 Cette commande :
 - 🌐 Lance le serveur de développement Expo
 - 📱 Affiche un QR code pour l'ouverture sur appareil physique
-- 🔧 Propose des options de lancement sur émulateur/simulateur ou directement sur un appareil connecté en USB
+- 🔧 Propose des options de lancement sur émulateur/simulateur ou directement sur un appareil connecté via USB
 - 🔄 Active le rechargement à chaud (hot reload) pour une mise à jour instantanée de l'application lors des modifications du code
 
 {% hint style="info" %}
