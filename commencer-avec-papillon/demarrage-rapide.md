@@ -90,7 +90,7 @@ npm run start -- --port 3000
 
 ## ❔ Aide
 
-Pour connaître toutes les options disponibles, utilisez la commande `npx expo start --help`.
+Pour connaître toutes les options disponibles, n'hésitez pas à utilisez la commande `npx expo start --help`.
 
 {% hint style="info" %}
 📚 Pour plus d'informations sur Expo CLI, consultez la [documentation officielle](https://docs.expo.dev/workflow/expo-cli/).
