@@ -34,6 +34,12 @@ Cette documentation concerne l'utilisation de Papillon dans un environnement Exp
    npm run start
    ```
 
+4. 📱 Scannez le QR code avec l'application Expo Go pour ouvrir l'application sur votre appareil mobile
+
+{% hint style="info" %}
+💡 Si vous ne bénéficiez pas de connexion WiFi, le téléphone ne trouvera pas l'hôte. Vous devrez donc brancher votre smartphone par USB à l'hôte, puis appuyer sur a (Android) ou i (iOS).
+{% endhint %}
+
 ## 🖥️ Commande `npm run start`
 
 Cette commande :
